@@ -13,10 +13,17 @@ h2{
 p{
   color: #eef0f1;
 }
+form{
+  color: #eef0f1;
+}
 pre{
   color: #eef0f1;
   white-space: pre-wrap;       /* Since CSS 2.1 */
   padding: 5px;
+}
+textarea{
+  width: 400px;
+  height: 200px;
 }
 .recipe-title{
   font-family: Courier-new, sans-serif;
